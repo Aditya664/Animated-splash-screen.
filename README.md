@@ -7,9 +7,9 @@ Animated splash screen.
 
 **Rohit Jain**
 
-- [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
-- [Website](https://kingtechnologies.in "Welcome")
+- [Profile](https://github.com/Aditya664 "Aditya Deshmukh")
+- [Email](mailto:adityadeshmukh7350@gmail.com?subject=Hi "Hi!")
+- [Website](https://aditya664.me "Welcome")
 
 ## 🤝 Support
 
@@ -18,6 +18,3 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 DEV Community – A constructive and inclusive social network for software developers. With you every step of your journey.
 
-Built on Forem — the open source software that powers DEV and other inclusive communities.
-
-Made with love and Ruby on Rails. DEV Community © 2016 - 2021.
