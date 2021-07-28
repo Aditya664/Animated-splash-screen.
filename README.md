@@ -5,7 +5,7 @@ Animated splash screen.
 [![Alt text for your video](https://github.com/Aditya664/Animated-splash-screen./blob/main/c5a5fc0f37e84a73314cf4123aa70e49d359cf4f.gif?raw=true)
 ## Author
 
-**Aditya Deshmukh*
+**Aditya Deshmukh**
 
 - [Profile](https://github.com/Aditya664 "Aditya Deshmukh")
 - [Email](mailto:adityadeshmukh7350@gmail.com?subject=Hi "Hi!")
