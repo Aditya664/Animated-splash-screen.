@@ -1,0 +1,31 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:textColor="@color/black"
+        android:textSize="35sp"
+        android:textFontWeight="300"
+        android:fontFamily="sans-serif-black"/>
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:id="@+id/dancer"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/gif" />
+
+
+</RelativeLayout>
