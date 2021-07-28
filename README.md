@@ -2,7 +2,7 @@
 Animated splash screen.
 ## Demo
 
-[![Alt text for your video](http://img.youtube.com/vi/474ZkwwTRfc/0.jpg)](https://www.youtube.com/watch?v=474ZkwwTRfc)
+[![Alt text for your video](https://github.com/Aditya664/Animated-splash-screen./blob/main/c5a5fc0f37e84a73314cf4123aa70e49d359cf4f.gif?raw=true)
 ## Author
 
 **Rohit Jain**
