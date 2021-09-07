@@ -9,7 +9,7 @@ Animated splash screen.
 
 - [Profile](https://github.com/Aditya664 "Aditya Deshmukh")
 - [Email](mailto:adityadeshmukh7350@gmail.com?subject=Hi "Hi!")
-- [Website](https://aditya664.me "Welcome")
+- [Website](http://aditya664.me "Welcome")
 
 ## 🤝 Support
 
